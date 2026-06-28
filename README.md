@@ -1,45 +1,23 @@
-# 🤖 Basic Chatbot
+# Hangman Game
 
-A simple rule-based chatbot built using Python. It responds to predefined user commands and provides a friendly conversation experience.
+## Description
 
-## ✨ Features
-- User-friendly chatbot
-- Personalized greeting
-- Random jokes and facts
-- Current date and time
-- Help menu
-- Message counter
-- Dictionary-based responses
+This is a simple text-based Hangman Game developed using Python.
 
-## 🛠️ Technologies Used
-- Python
-- datetime
-- random
+## Features
 
-## ▶️ How to Run
+* Random word selection
+* Input validation
+* 6 attempts for wrong guesses
+* Win/Lose conditions
+* Displays guessed letters
 
-```bash
-python chatbot.py
-```
+## Technologies Used
 
-## 💬 Commands
+* Python
 
-- hello
-- hi
-- how are you
-- what is your name
-- thank you
-- good morning
-- good night
-- who created you
-- what can you do
-- tell me a joke
-- tell me a fact
-- date
-- time
-- help
-- exit / bye
+## How to Run
 
-## 👩‍💻 Author
-
-**Anjali Gupta**
+1. Open the project folder.
+2. Run the Python file.
+3. Guess letters to find the hidden word.
