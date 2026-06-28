@@ -1,23 +1,27 @@
-# Hangman Game
+# CodeAlpha Python Programming Tasks
 
-## Description
+This repository contains my Python internship projects completed for CodeAlpha.
 
-This is a simple text-based Hangman Game developed using Python.
+## 📌 Projects
 
-## Features
+### 1. Basic Chatbot
+- Rule-based chatbot built using Python
+- Personalized greeting
+- Random jokes and facts
+- Date and time feature
+- Help menu
+- Dictionary-based responses
 
-* Random word selection
-* Input validation
-* 6 attempts for wrong guesses
-* Win/Lose conditions
-* Displays guessed letters
+### 2. Hangman Game
+- Word guessing game built using Python
+- User-friendly interface
+- Multiple attempts
+- Interactive gameplay
 
-## Technologies Used
+## 🛠️ Technologies Used
+- Python
+- Random Module
+- Datetime Module
 
-* Python
-
-## How to Run
-
-1. Open the project folder.
-2. Run the Python file.
-3. Guess letters to find the hidden word.
+## 👩‍💻 Author
+Anjali Gupta
